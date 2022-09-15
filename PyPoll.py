@@ -101,4 +101,3 @@ with open(file_to_save, "w") as txt_file:
     
     # save the winning candidate's result to txt
     txt_file.write(winning_candidate_summary)
-
