@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Chellenge Overview
+## Challenge Overview
 The Colorado Board of Elections would like to analyze recent voting data from the counties of Arapahoe, Denver, and Jefferson to determine:
 
 1. The total number of votes cast in those counties.
